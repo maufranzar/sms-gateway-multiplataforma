@@ -1,0 +1,85 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Entornos virtuales
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Configuración específica del usuario
+gateway_config.json
+*.log
+logs/
+
+# Base de datos local
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos temporales
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Datos sensibles
+.env.local
+.env.production
+config_local.json
+
+# Archivos de prueba con números reales
+test_real_*.py
+real_numbers.py
+
+# Backups
+*.bak
+*.backup
+
+# Archivos de sistema
+*.pid
+*.lock
+
+# Archivos específicos de desarrollo
+*_working.py
+*_backup.py
+test_numbers.py
+gammu-smsdrc
+gammu_utils.py
+
+# Configuraciones de desarrollo
+venv/
+.vscode/
+*.code-workspace

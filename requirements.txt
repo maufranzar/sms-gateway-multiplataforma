@@ -1,0 +1,12 @@
+# SMS Gateway Multiplataforma - Dependencias
+# Compatible con Python 3.7+
+
+# Comunicación serie multiplataforma
+pyserial>=3.5,<4.0
+
+# Herramientas opcionales para desarrollo
+pytest>=6.0.0
+black>=21.0.0
+
+# Nota: El sistema usa principalmente librerías estándar de Python
+# para máxima compatibilidad multiplataforma

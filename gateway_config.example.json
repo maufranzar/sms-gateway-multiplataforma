@@ -1,0 +1,18 @@
+{
+  "serial_port": "",
+  "baud_rate": 9600,
+  "timeout": 10,
+  "smsc_number": "",
+  "gateway_number": "",
+  "operator": "",
+  "web_server": {
+    "host": "localhost",
+    "port": 8080
+  },
+  "sim_info": {
+    "imsi": "",
+    "iccid": "",
+    "last_updated": ""
+  },
+  "_comment": "Este archivo se genera automáticamente al detectar la SIM. No modificar manualmente."
+}
